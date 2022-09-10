@@ -1,0 +1,14 @@
+C:\Users\chota\source\repos\customer_product\customer_product\bin\Debug\customer_product.exe.config
+C:\Users\chota\source\repos\customer_product\customer_product\bin\Debug\customer_product.exe
+C:\Users\chota\source\repos\customer_product\customer_product\bin\Debug\customer_product.pdb
+C:\Users\chota\source\repos\customer_product\customer_product\obj\Debug\customer_product.csproj.AssemblyReference.cache
+C:\Users\chota\source\repos\customer_product\customer_product\obj\Debug\customer_product.csproj.CoreCompileInputs.cache
+C:\Users\chota\source\repos\customer_product\customer_product\obj\Debug\customer_product.exe
+C:\Users\chota\source\repos\customer_product\customer_product\obj\Debug\customer_product.pdb
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\bin\Debug\customer_product.exe.config
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\bin\Debug\customer_product.exe
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\bin\Debug\customer_product.pdb
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\obj\Debug\customer_product.csproj.AssemblyReference.cache
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\obj\Debug\customer_product.csproj.CoreCompileInputs.cache
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\obj\Debug\customer_product.exe
+E:\Danish Data\2nd Semester\OOP\VIVA\customer_product\customer_product\obj\Debug\customer_product.pdb

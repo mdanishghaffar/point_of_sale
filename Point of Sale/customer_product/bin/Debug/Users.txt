@@ -1,0 +1,2 @@
+Talha,yaram,admin
+hamid,usama,customer
